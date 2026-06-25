@@ -1,0 +1,135 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.right ul{
+    display: flex;
+    align-items: center;
+   list-style-type: none;
+   gap: 50px;
+}
+.tort{
+    color: #71A894;
+}
+.img{
+    width: 1,328px;
+    height: 43px;
+    align-items: center;
+}
+.h{
+    font-size: 64px;
+}
+.rasm{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 30px;
+}
+.img1{
+    width: 750px;
+    height: 550px;
+}
+.btn{
+   
+    background-color:#71A894;
+    color:  white;
+    border: none;
+    padding: 22px;
+    border-radius: 12px;
+}
+.class{
+    font-size: 20px;
+    text-align: center;    
+}
+.kub{
+        display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.i{
+height: 340px;
+width: 1,328px;
+}
+.anna{
+     font-size: 20px;
+        display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.ana1{
+    border: 5px solid black;
+    border-radius: 15px;
+ box-shadow: 10px 10px 3px 5px
+  rgb( 137 , 179 , 237);
+  width: 350px;
+  height: 300px;
+}
+.jonis{
+    border: 5px solid black;
+    border-radius: 12px;
+}
+.jonis1{
+ font-size: 20px;
+        display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 250px;
+}
+.ono{
+width: 100px;
+height: 100px;
+}
+.boss1{
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 250px;
+
+}
+.jpg1{
+    border: 5px solid black;
+    border-radius: 12px;
+  box-shadow: 0px 10px 0px 0px
+   #71A894;
+}
+.jpg2{
+       border: 5px solid black;
+    border-radius: 12px;
+}
+.jpg3{
+       border: 5px solid black;
+    border-radius: 12px;
+}
+.css{
+      display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 10px;
+}
+.del{
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 250px;
+}
+.help1{
+      font-size: 20px;
+      text-align: center;
+}
+.alt{
+    width: 270px;
+    height: 170px;
+}
+.img30{
+    width: 750px;
+    height: 550px;
+}
+.ohirgi{
+        display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 30px;
+}
